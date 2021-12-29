@@ -1,0 +1,6 @@
+addi t0, x0, 4
+slti t0, t0, 8
+addi t0, x0, 9
+slti t0, t0, 8
+addi t0, x0, 30
+slti t0, t0, 30
