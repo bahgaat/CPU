@@ -1,0 +1,9 @@
+auipc t0, 354
+auipc t1, 2045
+auipc s1, 564
+auipc t0, 1048575
+auipc t1, 1048571
+auipc t1, 148571
+auipc t1, 1048572
+auipc t1, 1048573
+auipc t1, 104871
