@@ -799,7 +799,7 @@
     <comp lib="0" loc="(820,2590)" name="Tunnel">
       <a name="label" val="MemRW"/>
     </comp>
-    <comp lib="0" loc="(860,420)" name="Tunnel">
+    <comp lib="0" loc="(870,410)" name="Tunnel">
       <a name="facing" val="east"/>
       <a name="label" val="PCSel"/>
     </comp>
