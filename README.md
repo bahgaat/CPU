@@ -1,5 +1,3 @@
-# CS61CPU
-
-Look ma, I made a CPU! Here's what I did:
+CPU: A two-stage pipelined CPU that runs the RISC-V instruction set using logisim (educational tool for designing and simulating digital logic circuits).
 
 -
